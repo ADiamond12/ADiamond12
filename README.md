@@ -1,6 +1,6 @@
 # Arsenios Diamantakos
 
-Software Commissioning Engineer working around warehouse automation, SQL, Linux, testing, and operational software handover. In parallel, I build applied AI, automation, and backend-data projects that turn messy inputs into reviewable workflows, reports, and product demos.
+Software Commissioning Engineer working around warehouse automation, SQL, Linux, testing, and operational software handover. In parallel, I build applied AI, automation, backend-data, and ML-delivery projects that turn messy inputs into reviewable workflows, reports, and local product demos.
 
 Portfolio: [adiamantakos.com](https://adiamantakos.com)
 
@@ -8,17 +8,17 @@ Portfolio: [adiamantakos.com](https://adiamantakos.com)
 
 | Project | What it shows | Proof |
 | --- | --- | --- |
-| [AI Nutritionist](https://github.com/ADiamond12/ai-nutritionist) | Local-first nutrition planning app with data pipeline, recommender logic, Streamlit UI, model/data cards, and tests. | 50 pytest tests, Docker health check, generated meal-plan screenshots. |
-| [CaseForge Studio](https://github.com/ADiamond12/caseforge-studio) | Implementation-planning workspace that turns a rough brief into a structured dossier, saved run, comparison view, and export bundle. | 19 unittest tests, one-command reviewer demo, desktop/mobile screenshots. |
-| [AI Workflow Automation Assistant](https://github.com/ADiamond12/ai-workflow-automation-assistant) | Human-reviewed workflow queue with mock/OpenAI provider boundary, persistence, queue states, and review history. | 27 pytest tests, ruff, mock-mode seeded demo, reviewer screenshots. |
+| [AI Nutritionist](https://github.com/ADiamond12/ai-nutritionist) | Local-first nutrition planning app with USDA-derived data, Mediterranean/Greek extension, Hybrid Recommender V2, Streamlit UI, model/data cards, and tests. | 87 pytest tests, Dockerfile healthcheck, generated meal-plan screenshots. |
+| [CaseForge Studio](https://github.com/ADiamond12/caseforge-studio) | Operational implementation-planning workspace that turns a rough brief into a dossier, saved run, comparison view, and export bundle. | 24 unittest tests, one-command reviewer demo, desktop/mobile screenshots. |
+| [AI Workflow Automation Assistant](https://github.com/ADiamond12/ai-workflow-automation-assistant) | Operations review queue with mock/OpenAI provider boundary, persistence, queue states, status history, and human review. | 30 pytest tests, ruff, mock-mode seeded demo, reviewer screenshots. |
 
 ## Public Project Map
 
 | Repository | Focus |
 | --- | --- |
-| [job-market-intelligence-pipeline](https://github.com/ADiamond12/job-market-intelligence-pipeline) | ATS-backed data pipeline with validation, DuckDB history, delta reports, and fixture-backed evidence. |
-| [linkedin-ads-daily-check](https://github.com/ADiamond12/linkedin-ads-daily-check) | Daily marketing-ops report from LinkedIn Ads exports: KPI cards, pacing, and prioritized action list. |
-| [vit-pet-classification-pipeline](https://github.com/ADiamond12/vit-pet-classification-pipeline) | Supporting ML-delivery project: training/evaluation scripts, FastAPI, CLI, Streamlit UI, and honest model-artifact boundary. |
+| [job-market-intelligence-pipeline](https://github.com/ADiamond12/job-market-intelligence-pipeline) | Market intelligence reporting system with fixture-backed source collection, validation, DuckDB history, delta reports, and report index. |
+| [linkedin-ads-daily-check](https://github.com/ADiamond12/linkedin-ads-daily-check) | LinkedIn Ads Control Report: KPI cards, pacing verdict, control risks, daily movement, campaign movement, and HTML/JSON/Markdown artifacts. |
+| [vit-pet-classification-pipeline](https://github.com/ADiamond12/vit-pet-classification-pipeline) | Supporting ML-delivery project: public dataset preparation, training/evaluation scripts, FastAPI, CLI, Streamlit UI, and honest artifact boundary. |
 
 ## Current Focus
 
