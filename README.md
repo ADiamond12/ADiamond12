@@ -8,7 +8,7 @@ Portfolio: [adiamantakos.com](https://adiamantakos.com)
 
 | Project | What it shows | Proof |
 | --- | --- | --- |
-| [AI Nutritionist](https://github.com/ADiamond12/ai-nutritionist) | Local-first nutrition planning app with USDA-derived data, Mediterranean/Greek extension, Hybrid Recommender V2, Streamlit UI, model/data cards, and tests. | 87 pytest tests, Dockerfile healthcheck, generated meal-plan screenshots. |
+| [AI Nutritionist](https://github.com/ADiamond12/ai-nutritionist) | Local-first nutrition planning app with USDA-derived data, Mediterranean/Greek extension, Hybrid Recommender V2, weekly planner summaries, Streamlit UI, model/data cards, and tests. | 88 pytest tests, Dockerfile healthcheck, generated meal-plan screenshots. |
 | [CaseForge Studio](https://github.com/ADiamond12/caseforge-studio) | Operational implementation-planning workspace that turns a rough brief into a dossier, saved run, comparison view, and export bundle. | 24 unittest tests, one-command reviewer demo, desktop/mobile screenshots. |
 | [AI Workflow Automation Assistant](https://github.com/ADiamond12/ai-workflow-automation-assistant) | Operations review queue with mock/OpenAI provider boundary, persistence, queue states, status history, and human review. | 30 pytest tests, ruff, mock-mode seeded demo, reviewer screenshots. |
 
